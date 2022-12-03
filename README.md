@@ -1,4 +1,8 @@
 # coffeescript-template
+![Babel](https://img.shields.io/github/package-json/dependency-version/Rettend/coffeescript-template/dev/@babel/core?color=%23F5DA55&style=for-the-badge)
+![CoffeeScript](https://img.shields.io/github/package-json/dependency-version/Rettend/coffeescript-template/dev/coffeescript?color=%233E2723&style=for-the-badge)
+![ESLint](https://img.shields.io/github/package-json/dependency-version/Rettend/coffeescript-template/dev/eslint?color=%23482FBD&style=for-the-badge)
+
 
 CoffeeScript is a language that compiles into JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability.
 
