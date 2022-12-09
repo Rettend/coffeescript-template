@@ -6,6 +6,10 @@
 ![CoffeeScript](https://img.shields.io/github/package-json/dependency-version/Rettend/coffeescript-template/dev/coffeescript?color=%233E2723&style=for-the-badge)
 ![ESLint](https://img.shields.io/github/package-json/dependency-version/Rettend/coffeescript-template/dev/eslint?color=%23482FBD&style=for-the-badge)
 
+> **Warning**
+> CommonJS require not working. Cannot access local files
+
+
 CoffeeScript is a language that compiles into JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability. While also being almost as good as TypeScript.
 
 No bracket jungle. No semicolons. No commas. No parentheses. No colons. No curly braces. No strings. No prototypes. No new keywords. No functions. No fat arrows. No var. No this. No that. No underbars. No confusion. No bullshit.
