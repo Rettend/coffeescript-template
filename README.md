@@ -38,6 +38,8 @@ Install Node packages:
 
 `Ctrl+Shift+B` to start watching for changes. The compiled javascript will be in the `dist` folder.
 
+## Use with the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension
+
 ## File structure
 
     .
